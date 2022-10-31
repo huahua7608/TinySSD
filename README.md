@@ -13,7 +13,7 @@ Homework of AI Experiment
 
     ```bash
     
-     ├─TinySSD-main
+     ├─TinySSD
       │  
       ├─detection
       │          
